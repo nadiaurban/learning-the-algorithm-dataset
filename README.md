@@ -4,7 +4,7 @@
 
 ## Overview
 
-This dataset contains 179 YouTube videos in which content creators discuss the YouTube algorithm, platform visibility, and optimization strategies. The corpus was collected and analyzed for the paper:
+This dataset contains transcripts of 179 YouTube videos in which content creators discuss the YouTube algorithm, platform visibility, and optimization strategies. The corpus was collected and analyzed for the paper:
 
 > **"Learning the Algorithm: Responsibilization and the Limits of Agency on YouTube"**  
 > [Anonymized for Peer Review], [2026]  
@@ -138,13 +138,13 @@ If you use this dataset, please cite both the dataset and the original paper:
 
 **Dataset citation:**
 ```
-[Anonymized for Peer Review]. (2025). Learning the Algorithm: YouTube Creator Discourse Dataset. 
-[Repository/DOI]. https://doi.org/10.XXXX/XXXXX
+[Anonymized for Peer Review]. (2026). Learning the Algorithm: YouTube Creator Discourse Dataset. 
+
 ```
 
 **Paper citation:**
 ```
-[Anonymized for Peer Review]. (2025). Learning the Algorithm: Responsibilization and the Limits of Agency
+(2026). Learning the Algorithm: Responsibilization and the Limits of Agency
 
 ```
 
