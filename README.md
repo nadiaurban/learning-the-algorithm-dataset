@@ -7,7 +7,7 @@
 This dataset contains 179 YouTube videos in which content creators discuss the YouTube algorithm, platform visibility, and optimization strategies. The corpus was collected and analyzed for the paper:
 
 > **"Learning the Algorithm: Responsibilization and the Limits of Agency on YouTube"**  
-> [Anonymized for Peer Review], [2025]  
+> [Anonymized for Peer Review], [2026]  
 
 
 The dataset supports research on algorithmic folk theories, platform governance, creator labor, and computational discourse analysis.
