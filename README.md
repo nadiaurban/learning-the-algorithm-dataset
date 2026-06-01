@@ -111,7 +111,7 @@ While channel names are not included in the dataset, videos remain identifiable 
 ### Creator Rights
 
 **If you are a creator whose video appears in this dataset and wish to have it removed:**
-- Contact: [nadzieja.urban@gmail.com]
+- Contact Nadia Urban
 - We will honor all removal requests promptly
 - Removed videos will be documented in a changelog
 
