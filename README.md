@@ -138,7 +138,7 @@ If you use this dataset, please cite both the dataset and the original paper:
 
 **Dataset citation:**
 ```
-[Nadia Urban]. (2026). Learning the Algorithm: YouTube Creator Discourse Dataset. 
+Urban, N. (2026). Learning the Algorithm: YouTube Creator Discourse Dataset. doi: 10.5281/zenodo.20482140
 
 ```
 
