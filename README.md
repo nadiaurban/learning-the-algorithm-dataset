@@ -2,6 +2,8 @@
 
 [![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20482140.svg)](https://doi.org/10.5281/zenodo.20482140) 
+
 ## Overview
 
 This dataset contains transcripts of 179 YouTube videos in which content creators discuss the YouTube algorithm, platform visibility, and optimization strategies. The corpus was collected and analyzed for the paper:
@@ -141,6 +143,7 @@ If you use this dataset, please cite both the dataset and the original paper:
 Urban, N. (2026). Learning the Algorithm: YouTube Creator Discourse Dataset. https://doi.org/10.5281/zenodo.20482140
 
 ```
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20482140.svg)](https://doi.org/10.5281/zenodo.20482140)
 
 
