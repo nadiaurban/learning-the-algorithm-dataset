@@ -236,7 +236,6 @@ Full license text: https://creativecommons.org/licenses/by/4.0/
 ## Contact
 
 **Researcher:** Nadia Urban 
-**Email:** nadzieja.urban@gmail.com
 **Institution:** East China Normal University
 **ORCID:** 0009-0001-6282-5919
 
