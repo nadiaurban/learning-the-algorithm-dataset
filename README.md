@@ -7,7 +7,7 @@
 This dataset contains transcripts of 179 YouTube videos in which content creators discuss the YouTube algorithm, platform visibility, and optimization strategies. The corpus was collected and analyzed for the paper:
 
 > **"Learning the Algorithm: Responsibilization and the Limits of Agency on YouTube"**  
-> [Anonymized for Peer Review], [2026]  
+> [Nadia Urban], [2026]  
 
 
 The dataset supports research on algorithmic folk theories, platform governance, creator labor, and computational discourse analysis.
@@ -109,7 +109,7 @@ While channel names are not included in the dataset, videos remain identifiable 
 ### Creator Rights
 
 **If you are a creator whose video appears in this dataset and wish to have it removed:**
-- Contact: [your email address]
+- Contact: [nadzieja.urban@gmail.com]
 - We will honor all removal requests promptly
 - Removed videos will be documented in a changelog
 
@@ -138,13 +138,13 @@ If you use this dataset, please cite both the dataset and the original paper:
 
 **Dataset citation:**
 ```
-[Anonymized for Peer Review]. (2026). Learning the Algorithm: YouTube Creator Discourse Dataset. 
+[Nadia Urban]. (2026). Learning the Algorithm: YouTube Creator Discourse Dataset. 
 
 ```
 
 **Paper citation:**
 ```
-(2026). Learning the Algorithm: Responsibilization and the Limits of Agency
+Urban, N. (2026). Learning the Algorithm: Responsibilization and the Limits of Agency.
 
 ```
 
@@ -235,10 +235,10 @@ Full license text: https://creativecommons.org/licenses/by/4.0/
 
 ## Contact
 
-**Researcher:** Anonymized for Peer Review  
-**Email:** Anonymized for Peer Review 
-**Institution:** Anonymized for Peer Review 
-**ORCID:** Anonymized for Peer Review
+**Researcher:** Nadia Urban 
+**Email:** nadzieja.urban@gmail.com
+**Institution:** East China Normal University
+**ORCID:** 0009-0001-6282-5919
 
 For questions about the dataset, paper, or methodological details, please contact the author directly.
 
