@@ -138,10 +138,12 @@ If you use this dataset, please cite both the dataset and the original paper:
 
 **Dataset citation:**
 ```
-Urban, N. (2026). Learning the Algorithm: YouTube Creator Discourse Dataset.
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20482140.svg)](https://doi.org/10.5281/zenodo.20482140)
+Urban, N. (2026). Learning the Algorithm: YouTube Creator Discourse Dataset. https://doi.org/10.5281/zenodo.20482140
 
 ```
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20482140.svg)](https://doi.org/10.5281/zenodo.20482140)
+
+
 
 **Paper citation:**
 ```
